@@ -8,3 +8,6 @@
 [remote "origin"]
 	url = https://github.com/Admin11052003/giang.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = normal
+	geometry = 1109x563+192+192 216 255
